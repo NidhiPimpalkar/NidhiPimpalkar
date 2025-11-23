@@ -1,4 +1,11 @@
 # Hi, I'm Nidhi 👋
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&width=500&lines=Building+clean+UIs+with+React;Learning+AI+automation+tools;Always+improving+and+building+projects" />
+</p>
+
+
+Frontend Developer | React & TypeScript | Exploring AI Automation
+
 
 I'm a Frontend Developer currently focusing on building clean, scalable user interfaces using modern web technologies.
 
@@ -35,7 +42,11 @@ I'm a Frontend Developer currently focusing on building clean, scalable user int
 
 - Angular 2+  
 - Automation workflows with AI tools & APIs  
-- Chatbot logic & Prompt Engineering  
+- Chatbot logic & Prompt Engineering
+
+---
+
+🔹 Currently open to junior frontend roles or automation opportunities.
 
 ---
 
@@ -67,6 +78,13 @@ I'm a Frontend Developer currently focusing on building clean, scalable user int
 📍 Based in India  
 📧 **pimpalkarnidhi@gmail.com**  
 🔗 [LinkedIn](https://linkedin.com/in/nidhi-pimpalkar)
+
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=NidhiPimpalkar&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
