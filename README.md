@@ -6,6 +6,17 @@ I'm a Frontend Developer currently focusing on building clean, scalable user int
 
 ### 🚀 What I Work With
 
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=fff" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=fff" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff" />
+</p>
+
 - React + TypeScript  
 - Modern UI frameworks: Bootstrap, Tailwind, Material UI  
 - State Management: Redux  
@@ -15,6 +26,12 @@ I'm a Frontend Developer currently focusing on building clean, scalable user int
 ---
 
 ### 🧠 Currently Exploring
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Automation-000000?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-6F42C1?style=flat" />
+</p>
 
 - Angular 2+  
 - Automation workflows with AI tools & APIs  
